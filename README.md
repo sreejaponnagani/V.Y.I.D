@@ -1,9 +1,7 @@
-# ARoom 
+# V.Y.I.D
 
- ARoom, a furniture e-commerce app that uses augmented reality features. With ARoom, users can simulate furniture products in their own room before making a purchase, thanks to the use of Google Sceneform and 3D models.
+ V.Y.I.D, a furniture e-commerce app that uses augmented reality features. With V.Y.I.D, users can simulate furniture products in their own room before making a purchase, thanks to the use of Google Sceneform and 3D models.
 
-
-![Untitled design(1)](https://github.com/FoDev24/ARoom/assets/73345730/17b07696-f47f-421d-9a04-16b0ca49d3fd)
 
 
 # Technologies
